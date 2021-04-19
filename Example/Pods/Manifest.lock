@@ -1,0 +1,16 @@
+PODS:
+  - FCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - FCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  FCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FCategoryKit: b23fdd41c0d900a35d3ad2df248105c0e42bf75b
+
+PODFILE CHECKSUM: e31fa578fb428578e1f15bb0e5c8d18df1ee9345
+
+COCOAPODS: 1.9.3
